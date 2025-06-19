@@ -33,10 +33,16 @@ A responsive and interactive web application that allows users to search for rec
 
 ## 📁 Project Structure
 Recipe-Finder-App/
+
 ├── index.html
+
 ├── css/
+
 │ └── styles.css
+
 ├── js/
+
 │ └── script.js
+
 └── images/ 
 
